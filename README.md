@@ -1,4 +1,4 @@
-# Neural Observer 📉
+# Neural Observer 
 
 **Failure-Aware Diagnostics for Deep Neural Models.**
 
