@@ -1,0 +1,15 @@
+# Python garbage
+__pycache__/
+*.pyc
+
+# Data & Dumps (Keep the repo light)
+*.json
+*.pt
+*.pth
+
+# IDE settings
+.vscode/
+.idea/
+
+# Exceptions (We want to keep the demo image!)
+!assets/demo_crash.png
